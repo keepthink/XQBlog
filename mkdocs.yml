@@ -1,6 +1,10 @@
 site_name: haiweidao
 pages:
-- 首页: index.md
-- 技术: test.md
+- index: index.md
+- todo:  todo.md
+- goal:  goal.md
+- principle:  principle.md
+- sequence:  sequence.md
+- clip:  codeclip.md
 
 theme: readthedocs
